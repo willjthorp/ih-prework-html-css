@@ -1,0 +1,75 @@
+body {
+   background: rgb(244, 248, 249);
+}
+
+* {
+  font-family: helvetica, sans-serif;
+}
+
+p {
+  font-size: 28px;
+}
+
+.inline {
+  display: inline;
+ }
+
+.tweet-box {
+  background: rgb(255, 255, 255);
+  padding: 40px;
+  margin: 10px;
+  border: 2px solid rgb(225, 232, 237);
+  border-radius: 7px;
+}
+
+.profile-pic {
+  float: left;
+  margin-right: 20px;
+}
+
+.account-pic {
+  margin-right: 5px;
+}
+
+.follow-box {
+  float: right;
+  border: 2px solid rgb(85, 172, 238);
+  border-radius: 10px;
+  color: rgb(85, 172, 238);
+ }
+
+.follow-content {
+   margin: 15px 25px;
+}
+
+.bottom-text {
+  color: rgb(105, 120, 130);
+}
+
+.logo {
+  margin-right: 10px;
+ }
+
+.date {
+  color: rgb(101, 116, 127);
+ }
+
+.account-text {
+  color: rgb(104, 109, 129);
+}
+
+.reply {
+  margin-right: 20px;
+}
+
+.retweet {
+  margin-right: 7px;
+}
+
+.favourite {
+  margin-right: 7px;
+}
+
+.favourite-count {
+  margin-right: 20px;
+}
